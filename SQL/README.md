@@ -1,0 +1,2 @@
+# SQLExercises
+Temel sql çalışmalarım

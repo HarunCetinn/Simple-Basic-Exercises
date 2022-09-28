@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-9 Fonksiyonlar(Metot)", "Python-9 Fonksiyonlar(Metot)\Python-9 Fonksiyonlar(Metot).pyproj", "{29DB7C14-DD22-451B-965C-D8CC015BDEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29DB7C14-DD22-451B-965C-D8CC015BDEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DB7C14-DD22-451B-965C-D8CC015BDEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95200DE6-DF25-469B-925C-E383AA96E3FF}
+	EndGlobalSection
+EndGlobal
